@@ -5,7 +5,7 @@ permalink: /publication/2020-jss-gap
 excerpt: 'This paper proposes a practicable probabilistic forecasting model based on the statistical technique of survival analysis based on the commit activity of individuals involved in git repositories.'
 date: 2020-01-01
 venue: 'Journal of Systems and Software'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0164121220300546'
+#paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0164121220300546'
 #citation: 'A. Decan, E. Constantinou, T. Mens, H. Rocha, “GAP: Forecasting commit activity in git projects“, Journal of Systems and Software, Elsevier, Vol. 165, pp. 110573, 2020'
 ---
 <a href='https://www.sciencedirect.com/science/article/abs/pii/S0164121220300546'>Download article</a>
