@@ -1,5 +1,5 @@
 ---
-title: "J10. GAP: Forecasting commit activity in git projects"
+title: "GAP: Forecasting commit activity in git projects"
 collection: publications
 permalink: /publication/j10_2020-jss-gap.md
 excerpt: 'This paper proposes a practicable probabilistic forecasting model based on the statistical technique of survival analysis based on the commit activity of individuals involved in git repositories.'
